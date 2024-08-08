@@ -304,10 +304,7 @@ on writing the core functionality of our app using components, like in `App.js`.
 - [React DevTools - Chrome][devtools-chrome]
 - [React DevTools - Firefox][devtools-firefox]
 
-[jsx]:
-  https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
-[devtools-chrome]:
-  https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
-[devtools-firefox]:
-  https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+[jsx]: https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+[devtools-chrome]: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+[devtools-firefox]: https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 [devtools-readme]: https://www.npmjs.com/package/react-devtools
